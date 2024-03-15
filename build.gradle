@@ -17,8 +17,6 @@ subprojects {
     targetCompatibility = JavaVersion.VERSION_17
 
     repositories {
-        mavenCentral()
-        maven { url "https://repo.spongepowered.org/repository/maven-public/"}
         mavenLocal()
     }
 
